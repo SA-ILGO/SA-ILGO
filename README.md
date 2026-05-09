@@ -25,9 +25,11 @@
   <br/>
 </div>
 
+<br/>
 <h2 align="center">Statistics</h2>
 <div align= "center">
       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SA-ILGO&theme=default&show_icons=true&hide=issues,stars)
+![Sejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SA-ILGOO&theme=default&show_icons=true&hide=issues,stars)
 
+</div>
 <br>
