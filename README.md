@@ -28,8 +28,8 @@
 <br/>
 <h2 align="center">Statistics</h2>
 <div align= "center">
-      
-![Sejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SA-ILGOO&theme=default&show_icons=true&hide=issues,stars)
+    
+![Sejin's GitHub stats](https://github-readme-stats-mu-woad-32.vercel.app/api?username=SA-ILGO&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats&hide=issues,stars)
 
 </div>
 <br>
